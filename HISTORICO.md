@@ -16,3 +16,4 @@ test: adicionar casos extensos de pytest para o código refatorado
 docs: adicionar relatório completo Relatorio_A3_detalhado.pdf
 
 ci: adicionar workflow do GitHub Actions para executar testes
+- Revisão Final por Carlos Eduardo dos Santos Júnior
